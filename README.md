@@ -14,6 +14,6 @@ Xem tại: http://baiviet.vietnamgiapha.com/p/huong-dan-lam-gia-pha-tu-au-en-cuo
 
 ## Soạn thảo gia phả online, tại website vietnamgiapha.com. Có phiên bản chạy web trên smartphone
 
-## Dự án phi lợi nhuận từ năm 2013. Tác giả: Lương Trong Nghĩa
+## Dự án phi lợi nhuận từ năm 2013. Tác giả: Lương Trọng Nghĩa (vuzzan@gmail.com)
 
 "# vietnamgiapha" 
