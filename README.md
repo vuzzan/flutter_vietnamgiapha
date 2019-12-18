@@ -1,9 +1,7 @@
 # vietnamgiapha
 
-A new Flutter project for vietnamgiapha app.
-
-## Getting Started
-
-Vietnamgiapha App by flutter
+Flutter cho vietnamgiapha
+Website: vietnamgiapha.com
+Nơi lưu trữ miễn phí gia phả của người Việt Nam
 
 "# vietnamgiapha" 
