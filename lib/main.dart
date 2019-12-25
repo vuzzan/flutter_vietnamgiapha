@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:vietnamgiapha/Screen/HomePage.dart';
-
+import 'package:vietnamgiapha/Screen/Auth/LoginPage.dart';
 void main() {
   runApp(new MyApp());
 }
 class MyApp extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
@@ -17,7 +16,11 @@ class MyApp extends StatelessWidget {
         canvasColor: const Color(0xFFfafafa),
         fontFamily: 'Merriweather',
       ),
-      home: new HomePage(),
+      //home: new HomePage(),
+      routes: {
+        '/': (context) => HomeAutomationSplashScreen(),
+        '/home': (context) => HomeScreen(),
+      },
     );
   }
 }
